@@ -25,8 +25,7 @@ i18n
     defaultNS: 'translation',
     keySeparator: '.',
     react: {
-      wait: true,
-      useSuspense : false
+      useSuspense : true
     },
   })
 export default i18n
