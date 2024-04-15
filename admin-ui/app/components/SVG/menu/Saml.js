@@ -19,6 +19,6 @@ const Saml = ({ className, style }) => {
 
 export default Saml
 Saml.propTypes = {
-  style: PropTypes.node,
+  style: PropTypes.object,
   className: PropTypes.string,
 }

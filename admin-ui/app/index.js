@@ -16,3 +16,6 @@ render(
   </I18nextProvider>,
   document.querySelector('#root'),
 )
+
+
+
